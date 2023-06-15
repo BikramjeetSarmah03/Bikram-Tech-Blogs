@@ -16,7 +16,7 @@ export default function Header() {
         />
         <h1>Bikram Blogs</h1>
       </Link>
-      <div>Routes</div>
+      {/* <div>Routes</div> */}
     </header>
   );
 }
