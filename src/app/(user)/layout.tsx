@@ -12,7 +12,6 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Bikram Tech Blogs",
   description: "Made by Bikramjeet Sarmah using NextJs and Sanity CMS",
-  icons: "./favicon.ico",
 };
 
 export default function RootLayout({
